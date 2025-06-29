@@ -1,3 +1,12 @@
+
+*.pt
+*.pth
+train_set.json
+valid_set.json
+
+
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
